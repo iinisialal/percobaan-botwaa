@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
+const     BotName     =     'ALBOT'   ;
 const instagram = 'LINK INSTAGRAMU'; 
 const telegram = 'LINK TELEMU'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
